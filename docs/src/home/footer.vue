@@ -29,6 +29,7 @@ import logoSrc from './assets/logo.png'
   font-size: 15px;
 }
 
+
 .footer-names {
   margin-bottom: 8px;
   line-height: 1.6;
