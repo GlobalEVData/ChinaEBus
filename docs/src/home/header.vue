@@ -4,12 +4,12 @@
       <h1>
         <span class="highlight">How does bus network structure shape system costs and emissions of fleet electrification? Evidence from 224 Chinese cities</span>
         <br>
-        <p class="watermark">This work is part of the <a class="link" href="https://globalevdata.github.io/">Global EV Data Initiative</a>.</p>
+        <p class="watermark">This work is part of the <a class="link"  target="_blank" href="https://globalevdata.github.io/">Global EV Data Initiative</a>.</p>
       </h1>
       <div class="links-container">
-        <a href="https://globalevdata.github.io/" class="link">Global EV Data Initiative</a>
+        <a href="https://globalevdata.github.io/"  target="_blank" class="link">Global EV Data Initiative</a>
         <span class="divider">•</span>
-        <a href="https://github.com/huajide/China-eBus" class="link">Code</a>
+        <a href="https://github.com/huajide/China-eBus" target="_blank" class="link">Code</a>
         <span class="divider">•</span>
         <a href="./map/china-city/" target="_blank" class="link">Map</a>
       </div>
