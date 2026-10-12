@@ -6,19 +6,20 @@ layout: page
 
 > Explore China's Electric Bus Interactive Map: <a href="map/china-city.html" target="_blank" rel="noopener noreferrer">Click Here</a>
 
-The burden of bus electrification varies markedly across Chinese cities, with the annualized total cost ranging from 0.01% to 1.13% of city-level GDP and the annual electricity demand accounting for 0.01% to 17.63% of industrial electricity consumption. To analyse electrification performance across Chinese cities, we classified cities into three categories based on bus network length: large, medium and small. Differences in network scale and topology across these categories further shape infrastructure deployment and cost–benefit performance.
+The burden of bus electrification varies markedly across Chinese cities, with the annualised total cost ranging from 0.01% to 0.33% of city-level GDP and the annual electricity demand accounting for 0.01% to 10.53% of industrial electricity consumption. To analyse electrification performance across Chinese cities, we classified cities into three categories based on bus network length: large, medium and small. Differences in network scale and topology across these categories are associated with differences in infrastructure deployment and electrification performance.
+
 
 <Figure :src="imageSrc1" />
 
 > Fig. 1 | Representative typologies of urban bus networks across Chinese cities. a, Chinese cities are classified into three groups according to bus network length, revealing substantial inter-city variation in network scale. b, Representative bus networks from the three classes—Shanghai, Xiamen and Lhasa—illustrate marked differences in network extent, route structure and charging-station deployment. 
 
-Large networks have a much higher charging station density, roughly 30–45% higher than that of medium and small networks. Medium networks show the lowest cost, emissions, infrastructure and vehicle intensity per kilometre, indicating the highest cost-effectiveness for bus electrification. Small networks have the highest emissions per kilometre, likely due to sparser charging facilities and more deadheading for charging, whereas large networks have the highest values for other input-related cost indicators.
+Large networks have a much higher charging station density, roughly 40–65% higher than that of medium and small networks. Medium networks show the lowest mean cost, emissions, infrastructure and vehicle intensity per kilometre, indicating a potential cost advantage for bus electrification. Large networks have the highest mean emissions, costs and vehicle requirements per kilometre, although their mean charger density is slightly lower than that of small networks.
 
 <Figure :src="imageSrc2" />
 
 > Fig. 2 | Key electrification indicators by city class
 
-Under technology-improvement scenarios, faster charging brings clearer cost savings to smaller networks, whereas larger batteries provide greater infrastructure benefits to medium- and large-scale networks by easing range constraints under intensive operations.
+Under technology-improvement scenarios, faster charging brings larger, although still modest, cost savings to smaller networks, whereas larger batteries reduce fast-charger requirements but increase charging-station and slow-charger requirements, with smaller proportional increases in large-scale networks.
 
 <Figure :src="imageSrc3" />
 
